@@ -1,0 +1,7 @@
+{
+  "name": "SkySync: Weather & Landmark Studio",
+  "description": "A high-end weather application that combines real-time weather data with local landmark information and AI-generated cinematic backgrounds.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
